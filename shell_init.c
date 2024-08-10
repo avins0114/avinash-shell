@@ -342,7 +342,7 @@ void builtin_local(char **args)
 
 void displayPrompt()
 {
-    printf("wsh> ");
+    printf("vnsh> ");
 }
 
 void executeCommand(char **args, char *line)
